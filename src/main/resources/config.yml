@@ -1,0 +1,15 @@
+
+prefix: "&eSylenStaff &8»"
+
+messages:
+  enabled: "&aModo staff play."
+  disabled: "&cModo staff unplay."
+  no-permission: "&cNo tienes capacidad de permisos para utilizar SylenStaff."
+  player-only: "&cEste comando solo puede usarlo un jugador."
+  vanish-enabled: "&aVanish activado."
+  vanish-disabled: "&cVanish desactivado."
+  frozen: "&cHas sido congelado por el staff."
+  unfrozen: "&aYa puedes moverte."
+  no-players: "&cNo hay jugadores disponibles."
+  teleported: "&aTe has teletransportado hacia &e{player}&a."
+  plugin-enabled: "&aSylenStaff se ha iniciado correctamente."
