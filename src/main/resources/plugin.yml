@@ -1,0 +1,18 @@
+
+name: SylenStaff
+version: 1.0.0
+main: me.sylenstaff.SylenStaff
+api-version: '1.20'
+author: SylenMC
+description: Plugin de herramientas y moderación para el staff.
+
+commands:
+  staff:
+    description: Abre o cierra el modo staff.
+    usage: /staff
+    permission: sylenstaff.use
+
+permissions:
+  sylenstaff.use:
+    description: Permite utilizar SylenStaff.
+    default: op
