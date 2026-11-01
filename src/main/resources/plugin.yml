@@ -2,7 +2,7 @@
 name: SylenStaff
 version: 1.0.0
 main: me.sylenstaff.SylenStaff
-api-version: '1.20'
+api-version: '26.3'
 author: SylenMC
 description: Plugin de herramientas y moderación para el staff.
 
